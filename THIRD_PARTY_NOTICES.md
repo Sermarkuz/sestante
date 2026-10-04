@@ -1,0 +1,7 @@
+# Componenti e dati di terzi
+
+La licenza proprietaria di Sestante non si estende ai componenti e ai dati di terzi, che restano soggetti alle rispettive licenze.
+
+**Software.** Apache ECharts 4.9.0 e la mappa mondiale distribuita con ECharts, © The Apache Software Foundation, licenza Apache 2.0: testo completo in `third_party/ECHARTS-LICENSE.txt`, avviso in `third_party/ECHARTS-NOTICE.txt`. I caratteri Archivo e Cormorant SC sono caricati da Google Fonts (SIL Open Font License 1.1).
+
+**Dati.** World Bank, World Development Indicators (CC BY 4.0): PIL, popolazione, inflazione. Our World in Data, dataset energia e CO₂ (CC BY 4.0), che rielabora Energy Institute Statistical Review of World Energy e Maddison Project Database. SIPRI Military Expenditure Database, citato come fonte. US Geological Survey, Mineral Commodity Summaries (pubblico dominio). Ricavi delle imprese quotate da bilanci pubblici, raccolti tramite CompaniesMarketCap. Valori 2024 del modello completo arrotondati da IMF World Economic Outlook, World Bank, UN World Population Prospects, OECD PISA, World Bank LPI e S&P Global Ratings. Rischio geopolitico, relazioni bilaterali, presenza settoriale e stime sulle imprese non quotate sono elaborazioni di OpenIndustria TechLab.
